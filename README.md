@@ -1,2 +1,0 @@
-# CompleteReactCourse
-Created with CodeSandbox
